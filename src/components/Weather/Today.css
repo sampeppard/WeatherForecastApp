@@ -1,0 +1,17 @@
+.main-result {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px auto 0;
+    max-width: 300px;
+    padding: 0 10px;
+    background-color: #fff;
+}
+
+.main-result div {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
